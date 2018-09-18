@@ -1,0 +1,27 @@
+{
+  "name": "google-home-control",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^10.5.7",
+    "@types/hapi": "^17.0.17",
+    "@types/selenium-webdriver": "^3.0.10",
+    "@types/socket.io": "^1.4.36",
+    "@types/socket.io-client": "^1.4.32",
+    "typescript": "^3.0.1"
+  },
+  "dependencies": {
+    "hapi": "^17.5.3",
+    "pusher-client": "^1.1.0",
+    "redux": "^4.0.0",
+    "rxjs": "^6.2.2",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
